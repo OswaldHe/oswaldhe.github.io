@@ -26,7 +26,7 @@ baseurl                  : #
 repository               : "OswaldHe/oswaldhe.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Oswald He's Personal Website"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -95,10 +95,10 @@ analytics:
 # Site Author
 author:
   name             : "Oswald He"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/images/avatar.jpeg"
+  bio              : "CS & Applied Math @ UCLA, SWE intern @ Duolingo"
+  location         : "Los Angeles, CA"
+  email            : "zifanhe1202@g.ucla.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -278,5 +278,9 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

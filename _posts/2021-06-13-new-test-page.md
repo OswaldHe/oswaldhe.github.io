@@ -1,9 +1,7 @@
 ---
 layout: single
-title:  "Here is a test page"
+title:  "First page"
 ---
-
-# Hello There
 
 This is just a **test**.
 

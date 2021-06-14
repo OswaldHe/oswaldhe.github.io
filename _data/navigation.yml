@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "First Post"
-    url: /new-test-page/
+    url: /dev_note/jekyll-theme-note/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"

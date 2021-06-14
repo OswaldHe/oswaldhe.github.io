@@ -30,7 +30,7 @@ masthead_title           : "Oswald He's Personal Website"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-dark" # "github-light" (default), "github-dark"
+    issue_term           : "pathname" 
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -98,12 +98,11 @@ author:
   avatar           : "/images/avatar.jpeg"
   bio              : "CS & Applied Math @ UCLA, SWE intern @ Duolingo"
   location         : "Los Angeles, CA"
-  email            : "zifanhe1202@g.ucla.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zifanhe1202@g.ucla.edu"
-    - label: "Website"
+    - label: "Personal Website"
       icon: "fas fa-fw fa-link"
       url: "https://oswaldhe.github.io"
     - label: "Twitter"
@@ -115,9 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/OswaldHe"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Soundcloud Playlist"
+      icon: "fab fa-soundcloud"
+      url: "https://soundcloud.com/zifan-he/sets/bofu-g2r"
 
 # Site Footer
 footer:
@@ -277,9 +276,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single

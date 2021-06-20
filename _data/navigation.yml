@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "First Post"
-    url: /dev_note/jekyll-theme-note/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Resume"
+    url: /resume/
+  - title: "Gallery"
+    url: /gallery/
   # - title: "Sitemap"
   #   url: /sitemap/

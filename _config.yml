@@ -26,7 +26,7 @@ baseurl                  : #
 repository               : "OswaldHe/oswaldhe.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Oswald He's Personal Website"
+masthead_title           : "Oswald He"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Oswald He"
-  avatar           : "/images/avatar.jpeg"
+  avatar           : "assets/images/avatar.jpeg"
   bio              : "CS & Applied Math @ UCLA, SWE intern @ Duolingo"
   location         : "Los Angeles, CA"
   links:

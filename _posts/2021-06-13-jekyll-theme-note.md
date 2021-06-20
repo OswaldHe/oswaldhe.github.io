@@ -3,7 +3,6 @@ layout: single
 title:  "Add Custom Jekyll Theme"
 category: "dev_note"
 last_modified_at: "2021-06-13"
-read_time: "2 minutes"
 ---
 
 Currently, github page only support a few types of Jekyll theme on [this page](https://pages.github.com/themes/). You can add these themes using gem style installation in `Gemfile` or directly on the website of your github repo. Things is a little different when using custom theme like [minimal mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). The following warning will pop up and your deployed page will become blank:

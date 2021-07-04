@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Gallery of my illust
+title: Gallery of My Illustration
 permalink: /gallery/
 ---
 

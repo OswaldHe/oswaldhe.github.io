@@ -12,3 +12,4 @@ for DET(*Duolingo English Test*). At school, I worked at DevX as a backend engin
 ([Saru Recycling](https://www.sarurecycling.com/about)). As a student researcher, I worked at UCLA 
 [Micro Nano Manufacture Lab](https://www.cjkimlab.ucla.edu) for developing GUI for EWOD chips and improving microchip purchasing website [Edrop](https://edrops.org/home).
 
+The courses that I have already taken includes Operating System Principle (CS 111), Programming Language (CS 131), Software Engineering (CS 130), Database Management (CS 143), and Algorithm (CS 180). Feel free to discuss any of these topics with me.

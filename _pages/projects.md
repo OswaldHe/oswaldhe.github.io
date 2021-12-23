@@ -5,7 +5,19 @@ permalink: /projects/
 ---
 
 ---
-**UCLA Micro-Nano Manufacturing Lab** (Oct.2020 – Present)
+
+**Duolingo** (Jun.2021 - Sept.2021)
+
+Improve DET (Duolingo English Test) user experience and code scalability
+
+- Improve score sharing flow with more user-friendly interface
+- Create bulk synchronization script from <span style="color:#ffbd42">*Salesforce*</span>’s institution database for better searching functionality
+- Rebuild research page with improved refactorization and new UI using <span style="color:#ffbd42">*TypeScript/React*</span>
+- Write System Design spec for DET frontend microservice and working on creating the subservice
+
+<br />
+
+**UCLA Micro-Nano Manufacturing Lab** (Oct.2020 – Jul.2021)
 
 Build GUI for Electrowetting chip controller and elaborate Edrop website for chip manufacturing. As a  student Researcher, I built the EWOD GUI, which is a PWA built on top of a normal React Web App with <span style="color:#ffbd42">*serviceWorker*</span>. I also improved the Edrop website using <span style="color:#ffbd42">*React+JQuery*</span> as frontend tech stack and Loopback as backend framework.
 

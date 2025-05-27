@@ -235,7 +235,7 @@ GEM
     octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
-    pathutil (0.16.2)
+    pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
     racc (1.5.2)
@@ -270,6 +270,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.9.1)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -283,9 +284,11 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   minimal-mistakes-jekyll (~> 4.23.0)
+  pathutil (~> 0.14.0)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.1.4

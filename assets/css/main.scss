@@ -8,7 +8,7 @@
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
-    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-family: 'Lato', Arial, sans-serif;
     font-size: 14px; // originally 16px
     @include breakpoint($medium) {
         font-size: 15px; // originally 18px
@@ -28,12 +28,12 @@ a,
 h3,
 h1,
 body {
-    font-family: 'Trebuchet MS', Monaco, Consolas, 'Lucida Console', monospace, sans-serif;
+    font-family: 'Lato', Monaco, Consolas, 'Lucida Console', monospace, sans-serif;
 }
 
 .sidebar{
     p {
-        font-family: 'Trebuchet MS', Monaco, Arial, sans-serif;
+        font-family: 'Lato', Monaco, Arial, sans-serif;
     }
 }
 

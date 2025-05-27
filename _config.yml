@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oswald He"
+title                    : "Zifan He"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Oswald He"
-description              : "An amazing website."
+name                     : "Zifan He"
+description              : "Zifan He's personal website"
 url                      : "https://oswaldhe.github.io"
 baseurl                  : #
 repository               : "OswaldHe/oswaldhe.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Oswald He"
+masthead_title           : "Zifan He"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), "github-dark"
+    theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : "pathname" 
   staticman:
     branch               : # "master"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oswald He"
+  name             : "Zifan He"
   avatar           : "assets/images/avatar.jpeg"
-  bio              : "CS & Applied Math @ UCLA, SWE intern @ Duolingo"
+  bio              : "CS PhD @ UCLA VAST Lab, Focus on Algorithm-Hardware Co-design of AI Accelerators"
   location         : "Los Angeles, CA"
   links:
     - label: "Email"
@@ -105,11 +105,11 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/zifan-oswald-he-2a9653165/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/oswald_he"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: "Google Scholar"
+      icon: "fab fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=xomIMQoAAAAJ&hl=en"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
